@@ -4,13 +4,13 @@ This repository contains a non-commercial localization project of the narrative 
 
 ## About the Project
 
-The `.yarn` dialogue files were extracted from the game files and fully translated from English to Italian, with great care given to tone, character voice, slang, wordplay, and cultural references. Re-insertion of translated content into the game was performed using an open-source CLI tool released by the French fan localization community (available at https://github.com/emberimp/NITW-Dialogue-Tool) The Italian version was fully functional in-game and presented to the academic commission as a working proof of concept for game localization workflows.
+The `.yarn` dialogue files were extracted from the game files and fully translated from English to Italian, with great care given to tone, character voice, slang, wordplay, and cultural references. Re-insertion of translated content into the game was performed using an open-source CLI tool released by the French fan localization community (available at https://github.com/emberimp/NITW-Dialogue-Tool). The Italian version was fully functional in-game and presented to the academic commission as a working proof of concept for game localization workflows.
 
-## Dialogue List
+## Dialogue List Adaptation_ENG-ITA
 
 This folder contains materials related to the translation and adaptation of four selected scenes from the videogame. It showcases both textual and visual elements that highlight the linguistic and cultural challenges involved in the process.
 
-### dialogue_list.pdf
+### NITW localization + visual adaptation.pdf
 
 The main file in this folder is a PDF document featuring:
 
@@ -22,7 +22,7 @@ This document illustrates the translator’s strategy to maintain the stylistic 
 
 ---
 
-### Visual Journal Adaptation
+### Visual Aspects - Video and Graphics
 
 This subfolder expands on the proposals presented in the main PDF file, offering visual examples of how the journal might look in Italian.
 
@@ -30,9 +30,14 @@ This subfolder expands on the proposals presented in the main PDF file, offering
 
 A collection of mock-up screenshots that show the journal as it would appear in the translated version. These images aim to recreate the original tone, style, and humor using Italian text and culturally adapted visuals.
 
-#### modded_clip.mp4
+#### NITW_clip_compressed.mp4
 
 A short gameplay clip, showing a humorous wordplay, personally modded by the author. This video serves as a proof of concept for how the localization could be implemented inside the game itself.
+
+## Acknowledgments
+A special thanks to the French fan localization community (Night in the Woods - Traduction Française https://discord.gg/nwC3qFWh) for their passionate work, and a heartfelt thank you to **Eliot Froment** for his generous support and technical guidance with the dialogue tool.
+
+
 
 
 
